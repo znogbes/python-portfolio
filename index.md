@@ -1,4 +1,5 @@
 ---
-title: Welcome to my blog
+title: Python portfolio
 ---
+This page serves as a curated repository of data science projects.
 
