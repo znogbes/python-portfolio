@@ -3,5 +3,7 @@ plugins:
 - jekyll-remote-theme
 author: Sebastian Gonzalez-Martinez
 title: Data Science Portfolio
+description: Sebastian Gonzalez-Martinez
+
 
 
