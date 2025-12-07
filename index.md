@@ -16,4 +16,6 @@ Welcome to my data science portfolio! I'm Sebastian and I'm currently an analyst
 
 Coming soon!
 
+* This [link](./_posts/2025-12-05-hello-world.md) does not have a project yet.
+
 <img src="https://media.tenor.com/CrWHpzxIZYEAAAAC/cat-typing-gif.gif" alt="Alt text">
