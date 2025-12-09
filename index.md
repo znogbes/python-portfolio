@@ -20,4 +20,4 @@ Welcome to my data science portfolio! I'm Sebastian and I'm currently an analyst
 
 ...More coming soon!
 
-
+<img src="https://media.tenor.com/CrWHpzxIZYEAAAAC/cat-typing-gif.gif" alt="Alt text">
