@@ -16,6 +16,8 @@ Welcome to my data science portfolio! I'm Sebastian and I'm currently an analyst
 * [Predicting loan payback](./docs/loan-payback/intro-and-eda.html) (Machine learning) 
   > This project walks through different stages of approaching a classification problem, from exploratory data analysis to model selection. I examine different machine learning methods to propose an optimal model to predict whether a person pays a loan back.
 
+* Jupyter book converted to .md file [here](./_posts/intro-and-eda.md)
+* vs hello-world.md [here](./_posts/2025-12-05-hello-world.md)
 
 * Loan pay back  <a href="https://nbviewer.org/github/znogbes/python-portfolio/blob/main/_posts/loan-payback/intro-and-eda.ipynb" target="_blank">View Notebook  - rendered with nbviewer</a>
 
