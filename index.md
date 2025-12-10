@@ -19,7 +19,7 @@ Welcome to my data science portfolio! I'm Sebastian and I'm currently an analyst
 * Jupyter book converted to .md file [here](./_posts/intro-and-eda.md)
 * vs hello-world.md [here](./_posts/2025-12-05-hello-world.md)
 
-* Loan pay back  <a href="https://nbviewer.org/github/znogbes/python-portfolio/blob/main/_posts/loan-payback/intro-and-eda.ipynb" target="_blank">View Notebook  - rendered with nbviewer</a>
+* Loan pay back  <a href="https://nbviewer.org/github/znogbes/python-portfolio/blob/ml-log-reg/docs/loan-payback/intro-and-eda.ipynb" target="_blank">View Notebook  - rendered with nbviewer</a>
 
 ...More coming soon!
 
