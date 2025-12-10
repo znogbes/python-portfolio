@@ -119,3 +119,21 @@ pd.DataFrame(iris.data).head(10)
 </div>
 
 
+
+
+```python
+pd.DataFrame(iris.data).plot()
+```
+
+
+
+
+    <Axes: >
+
+
+
+
+    
+![png](intro-and-eda_files/intro-and-eda_2_1.png)
+    
+
