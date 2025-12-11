@@ -35,3 +35,6 @@
         `</div>`
 
         - make sure to remove first line from html-conversion `<!DOCTYPE html>`
+
+TODO:
+- reconcile html embedding with theme's blue font (seems to be disappearing)

@@ -13,8 +13,8 @@ Welcome to my data science portfolio! I'm Sebastian and I'm currently an analyst
 
 * * *
 ### Data science projects:
-** [Predicting loan payback](./_posts/2025-12-05-hello-world.md) (Machine learning) 
-  > This project walks through different stages of approaching a classification problem, from exploratory data analysis to model selection. I examine different machine learning methods to propose an optimal model to predict whether a person pays a loan back.
+* [Predicting loan payback](./_posts/2025-12-05-hello-world.md) (Machine learning) 
+  > This project walks through different stages of approaching a classification problem, from **exploratory data analysis** to **model selection**. I examine different **machine learning methods** to propose an optimal model to predict whether a person pays a loan back.
 
 ...More coming soon!
 
