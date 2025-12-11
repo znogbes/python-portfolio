@@ -140,5 +140,8 @@ pd.DataFrame(iris.data).plot()
 
 
 
-    
+This is trying to use relative path    
 ![png](/assets/images/intro-and-eda-files/intro-and-eda_2_1.png)
+
+- This is linking to full url
+![png](https://znogbes.github.io/python-portfolio/assets/images/intro-and-eda-files/intro-and-eda_2_1.png)
