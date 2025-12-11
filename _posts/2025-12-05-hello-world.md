@@ -141,5 +141,4 @@ pd.DataFrame(iris.data).plot()
 
 
     
-![png](intro-and-eda_files/intro-and-eda_2_1.png)
-    
+![png](./assets/images/intro-and-eda_2_1.png)
