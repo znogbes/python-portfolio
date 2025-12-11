@@ -151,7 +151,6 @@ This is linking to full url
 This is experimenting copying html content from conversion, which could avoid need to include picture links - which iw what's done above after converting jupyter book to md
 
 <div class="html-content">
-<!DOCTYPE html>
 
 <html lang="en">
 <head><meta charset="utf-8"/>
