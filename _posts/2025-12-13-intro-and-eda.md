@@ -2,12 +2,13 @@
 title: "Exploratory Data Analysis [Under development]"
 date: 2025-12-13
 ---
-
-<iframe
-  src="{{ 'assets/intro-and-eda.html' | relative_url}}"
-  style="width:100%; border:none"
-  id="notebook-iframe"
-></iframe>
+<div class="iframe-fullwidth" markdown="0">
+  <iframe
+    src="{{ 'assets/notebooks/intro-and-eda.html' | relative_url}}"
+    style="width:100%; border:none"
+    id="notebook-iframe"
+  ></iframe>
+</div>
 
 <script>
 function resizeIframe() {
@@ -16,6 +17,7 @@ function resizeIframe() {
   iframe.onload = () => {
     const doc = iframe.contentDocument || iframe.contentWindow.document;
     iframe.style.height = doc.body.scrollHeight + 'px';
+    iframe.style.overflow = 'hidden'
   };
 }
 window.addEventListener('DOMContentLoaded', resizeIframe);

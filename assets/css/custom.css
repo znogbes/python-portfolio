@@ -1,0 +1,9 @@
+.iframe-fullwidth {
+  width: 100vw;       /* full viewport width */
+  margin-left: calc(-50vw + 50%); /* center full-width div */
+}
+
+.iframe-fullwidth iframe {
+  width: 100%;         /* fill container */
+  border: none;
+}
