@@ -1,14 +1,15 @@
-/* Fullscreen container: ensures iframe uses full viewport */
-.iframe-fullscreen {
-  width: 100vw;                   /* 100% of viewport width */
-  height: 100vh;                  /* 100% of viewport height */
-  margin-left: calc(-50vw + 50%);  /* Center the iframe in the viewport */
-  margin-top: 0;                  /* Remove any top margins */
+/* Override Minimal theme's .post container width for this specific content */
+.iframe-container {
+  width: 100vw !important;        /* Make container 100% of viewport width */
+  margin-left: 0 !important;      /* Remove any margin */
+  margin-right: 0 !important;     /* Remove any margin */
   position: relative;
+  display: block;
 }
 
-.iframe-fullscreen iframe {
-  width: 100%;                    /* Ensure iframe takes full width of container */
-  height: 100%;                   /* Ensure iframe takes full height of container */
-  border: none;                   /* Remove iframe borders */
+.iframe-container iframe {
+  width: 100%;                    /* Ensure iframe takes full container width */
+  height: 100vh;                  /* Make iframe full viewport height */
+  border: none;
+  display: block;                 /* Prevent any unwanted spacing */
 }
