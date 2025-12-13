@@ -1,9 +1,14 @@
-.iframe-fullwidth {
-  width: 100vw;       /* full viewport width */
-  margin-left: calc(-50vw + 50%); /* center full-width div */
+/* Fullscreen container: ensures iframe uses full viewport */
+.iframe-fullscreen {
+  width: 100vw;                   /* 100% of viewport width */
+  height: 100vh;                  /* 100% of viewport height */
+  margin-left: calc(-50vw + 50%);  /* Center the iframe in the viewport */
+  margin-top: 0;                  /* Remove any top margins */
+  position: relative;
 }
 
-.iframe-fullwidth iframe {
-  width: 100%;         /* fill container */
-  border: none;
+.iframe-fullscreen iframe {
+  width: 100%;                    /* Ensure iframe takes full width of container */
+  height: 100%;                   /* Ensure iframe takes full height of container */
+  border: none;                   /* Remove iframe borders */
 }
