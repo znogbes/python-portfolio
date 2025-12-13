@@ -3,7 +3,7 @@ Layout: default
 ---
 # Hello world! 
 
-Welcome to my data science portfolio! I'm Sebastian and I'm currently an analyst at NHS England. This website is under development, but feel free to contact me on [LinkedIn](https://www.linkedin.com/in/sebastian-gonzalez-martinez-1a064612b) in the meantime. 
+Welcome to my data science portfolio! I'm Sebastian and I'm currently an analyst at NHS England. _This website is under development_, but feel free to contact me on [LinkedIn](https://www.linkedin.com/in/sebastian-gonzalez-martinez-1a064612b) in the meantime. 
 
 ### Publicly available work:
 * [Patient Safety Event Data Quarterly Publication](https://www.england.nhs.uk/statistics/statistical-work-areas/patient-safety-data/) 
@@ -13,7 +13,7 @@ Welcome to my data science portfolio! I'm Sebastian and I'm currently an analyst
 
 * * *
 ### Data science projects:
-* [Predicting loan payback](./_posts/2025-12-05-hello-world.md) (Machine learning) 
+* [Predicting loan payback](./_posts/2025-12-13-intro-and-eda.md) (Machine learning) 
   > This project walks through different stages of approaching a classification problem, from **exploratory data analysis** to **model selection**. I examine different **machine learning methods** to propose an optimal model to predict whether a person pays a loan back.
 
 ...More coming soon!
