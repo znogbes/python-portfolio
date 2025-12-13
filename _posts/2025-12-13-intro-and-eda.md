@@ -5,8 +5,8 @@ date: 2025-12-13
 
 <iframe
   src="{{ 'assets/intro-and-eda.html' | relative_url}}"
-  style="max-width:none; border:none"
-  id="note book-iframe"
+  style="width:100%; border:none"
+  id="notebook-iframe"
 ></iframe>
 
 <script>
